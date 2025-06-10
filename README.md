@@ -8,6 +8,8 @@ personal iac setup
 - [ ] Set up github actions to apply tofu setup
 - [ ] Set up dev environment using mise
 - [ ] Set up git pre-commit hook using mise (like python-template)
+- [ ] Create separate base bootc server image (remove homelab stuff)
+- [ ] Create homelab, nts, dns server images based on bootc base image
 
 ## docker runner image candidates
 
