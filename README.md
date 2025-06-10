@@ -3,7 +3,7 @@ personal iac setup
 
 ## todo
 
-- [ ] Move all tasks to mise
+- [x] Move all tasks to mise
 - [ ] Move all secrets to github secrets
 - [ ] Set up github actions to apply tofu setup
 - [ ] Set up dev environment using mise
